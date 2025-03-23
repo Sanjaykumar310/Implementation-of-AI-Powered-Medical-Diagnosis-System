@@ -53,7 +53,7 @@ streamlit run app.py
 ![image alt](https://github.com/Sanjaykumar310/Implementation-of-AI-Powered-Medical-Diagnosis-System/blob/870eda2ea93c903f7f16a8a4228b334c05507cf2/Screenshot%202025-03-23%20103155.png)
 
 ### Prediction Page
-![image alt](images/prediction.png)
+![image alt](https://github.com/Sanjaykumar310/Implementation-of-AI-Powered-Medical-Diagnosis-System/blob/1b7e75f811c72f6bf8c6a8f249bd22893b6c454c/2Screenshot%202025-03-23%20104705.png)
 
 ## Contribution
 Feel free to contribute to this project by:
