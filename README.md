@@ -50,10 +50,10 @@ streamlit run app.py
 
 ## Screenshots
 ### Home Page
-![Home Page](images/homepage.png)
+![image alt](https://github.com/Sanjaykumar310/Implementation-of-AI-Powered-Medical-Diagnosis-System/blob/870eda2ea93c903f7f16a8a4228b334c05507cf2/Screenshot%202025-03-23%20103155.png)
 
 ### Prediction Page
-![Prediction Page](images/prediction.png)
+![image alt](images/prediction.png)
 
 ## Contribution
 Feel free to contribute to this project by:
